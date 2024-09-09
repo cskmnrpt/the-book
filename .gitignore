@@ -1,0 +1,19 @@
+# MacOS system files
+DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder files
+.Spotlight-V100
+.Trashes
+._*
+
+# macOS resource fork files
+.Spotlight-V100
+.fseventsd
+.VolumeIcon.icns
+.DS_Store?
+.DS_Store
+
+# macOS directory service file
+.DS_Store

@@ -1,0 +1,10 @@
+nala
+bat
+gh
+bash-it
+software-properties-common
+xclip
+make
+tmux
+cmake
+gettext
