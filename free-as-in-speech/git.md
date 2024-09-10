@@ -8,5 +8,5 @@
 ## Branches
 | Command | Description |
 |--|--|
-| `git checkout -` | Swithes to the previous branch |
+| `git checkout -` | Switches to the previous branch |
 
